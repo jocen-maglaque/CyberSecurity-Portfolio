@@ -48,8 +48,8 @@ Recommended Remediation Actions:
 need to inform user to not click the link from maliscious emails
 
 List of Attack Indicators: 
-http://bit.ly/3sHkX3da12340\n\nIf
-urgents@amazon.biz
+hxxp[://]bit[.]ly/3sHkX3da12340\n\nIf
+urgents@amazon[.]biz
 ---
 ### Case 3: Alert #8817 —  Email Containing Suspicious External Link
 
@@ -57,6 +57,8 @@ Reason for Classifying as True Positive:
 a phishing email impersonating Microsoft
 upon checking the email has a malicious link
 hxxps[://]m1crosoftsupport[.]co/login
+List of Attack Indicators: 
+https://m1crosoftsupport.co/login
 
 ## 🛠️ Tools & Analyst Skills Demonstrated
 * **SIEM / Alert Triage:** Filtering, searching, and managing queue workflows in a SOC environment.
