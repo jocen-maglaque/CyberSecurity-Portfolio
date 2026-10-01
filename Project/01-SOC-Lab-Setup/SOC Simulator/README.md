@@ -58,9 +58,6 @@ a phishing email impersonating Microsoft
 upon checking the email has a malicious link
 hxxps[://]m1crosoftsupport[.]co/login
 
-List of Attack Indicators: 
-hxxps[://]m1crosoftsupport[.]co/login
-
 ## 🛠️ Tools & Analyst Skills Demonstrated
 * **SIEM / Alert Triage:** Filtering, searching, and managing queue workflows in a SOC environment.
 * **Threat Intelligence / OSINT:** Domain/URL reputation lookups, un-shortening links, defanging indicators (`hxxp`).
