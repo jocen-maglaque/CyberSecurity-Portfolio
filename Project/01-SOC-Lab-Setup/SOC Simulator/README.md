@@ -1,10 +1,9 @@
+
 # SOC Incident Investigation: Introduction to Phishing (TryHackMe)
 
-![100% True Positive Rate](https://img.shields.io/badge/True%20Positive%20Accuracy-100%25-brightgreen)
-![100% False Positive Rate](https://img.shields.io/badge/False%20Positive%20Accuracy-100%25-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-TryHackMe-blue)
-![Role](https://img.shields.io/badge/Role-L1%20SOC%20Analyst-orange)
-
+<img width="1577" height="695" alt="Screenshot 2026-10-01 211931" src="https://github.com/user-attachments/assets/b0b404e6-c14a-441c-ad24-039d24dc60cf" />
+<img width="1586" height="689" alt="Screenshot 2026-10-01 211912" src="https://github.com/user-attachments/assets/f501d281-a797-4517-928b-0d043bccc3e9" />
+<img width="1535" height="771" alt="Screenshot 2026-10-01 210248" src="https://github.com/user-attachments/assets/b062ccdd-df37-43d3-9e17-521ffdb57061" />
 ## 📌 Overview
 This repository documents the triage, analysis, and resolution of phishing and perimeter-related security alerts within the TryHackMe **SOC Simulator** ("Introduction to Phishing" scenario). 
 
